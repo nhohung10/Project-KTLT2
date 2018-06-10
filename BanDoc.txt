@@ -1,0 +1,16 @@
+15
+1,gv1,Phan Thi Trinh,CNTT,1,1,2000,tp HCM, 09090999009
+2,sv1,Trenh Quy Hung,CNTT,10,4,2018,2017
+1,gv2,Hoang Cong Trinh,CNTT,2,2,2010,Thu Duc,0987654321
+1,gv3,Pham Thi Thu,Du Lich,3,3,2012,Quan 9,0989898989
+2,sv2,Tran Quoc Buu,CNTT,4,4,2018,2017
+2,sv3,Pham Quoc Tai,Co Khi,5,5,2019,2017
+1,gv4,Thu Thao,Tieng Han,6,6,2016,Quan 2, 012121212121
+2,sv4,Dinh Chinh,Tieng Anh,7,7,2018,2017
+2,sv5,Tan Phuc,Tieng Trung,8,8,2019,2017
+2,sv6,Ben Tre,Tieng Phan,9,9,2019,2017
+1,gv5,My Hanh,Xa Hoi,1,2,2015,Quan 1,0123456789
+1,gv6,My Xuan,Xay dung,2,1,2017,Quan 2,0121987654
+2,sv7,Tan Dai,CNTT,2,2,2018,2017
+1,gv10,Cuong,Khoa,1,1,1999,DS,0989
+1,gv11,Giau,cntt,1,1,1999,DN,0909

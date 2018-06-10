@@ -1,0 +1,11 @@
+10
+1M,Mang May Tinh,Quy Hung,Kim Dong,10000,2010,199,12,10,2012,3
+TKW,Thiet Ke Web,Phuong Thao,Dong Nai,20000,1998,200,12,9,2005,6
+CTDL,CTDLVaGT,Phan Trinh,Tp HCM,30000,2010,150,1,1,2015,0
+CSDL,Co So Du Lieu,Cong Trinh,Dong Nai,15000,1998,99,23,12,1999,2
+CT,Chinh Tri,Hanh,My Xuan,20000,2015,200,10,10,2017,4
+QP,Quoc Phong,Duc Anh,Anh Tuan,10000,2000,100,5,5,2005,0
+GDGT,Giao Duc Gioi Tinh,Quoc Buu,CD17,25000,1999,300,1,2,2003,0
+KTLT,Ky Thuat Lap Trinh,Phan Trinh,Dong Nai,25000,1999,200,15,10,2015,1
+AN,An Ninh Mang,Phuong Anh,Tp HCM,30000,1999,69,21,11,2011,0
+DS,Doi Song,Quoc Tai,Binh Thuan,18000,2015,99,13,11,2017,10
